@@ -1,0 +1,8 @@
+{
+  "name": "Laravel REST API",
+  "version": "1.0.0",
+  "description": "Laravel API dokumentáció",
+  "title": "Laravel REST API",
+  "url": "http://localhost:8000/api",
+  "sampleUrl": "http://localhost:8000/api"
+}
